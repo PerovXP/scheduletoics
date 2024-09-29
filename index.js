@@ -12,7 +12,6 @@ for (const i in scheduleRawJson) {
             calName: "Sirius University",
 
             title: `${e["discipline"]} (${e["groupType"]})`,
-            // description: `blah-blah`,
 
             organizer: {
                 name: Object.values(e["teachers"])[0]["fio"],
@@ -28,8 +27,6 @@ for (const i in scheduleRawJson) {
         }
 
         schedule.push(obj);
-
-        console.log(obj);
     }
 }
 
