@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-WR-CALNAME:Sirius University
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:hv93c2_9a98ViKrYPqJPz
+SUMMARY:Иностранный язык (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241001T074500Z
+DTEND:20241001T091500Z
+LOCATION:Гринатом
+ORGANIZER;CN="Ростова Анжелика Юрьевна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:y5fdVrSbizE4KMVBPUWcW
+SUMMARY:Иностранный язык (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241001T074500Z
+DTEND:20241001T091500Z
+LOCATION:Газпром нефть
+ORGANIZER;CN="Биккинина Элина Рамилевна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:1kdfg7Lf_tJiBngNoAa5J
+SUMMARY:Иностранный язык (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241003T074500Z
+DTEND:20241003T091500Z
+LOCATION:Гринатом
+ORGANIZER;CN="Ростова Анжелика Юрьевна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:uLneGO0DmV661Wc7-9Y8T
+SUMMARY:Иностранный язык (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241003T074500Z
+DTEND:20241003T091500Z
+LOCATION:Альфа 4.1
+ORGANIZER;CN="Биккинина Элина Рамилевна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:BRBUk3fTaX6gXFXlg_qCt
+SUMMARY:Математика (углубленный уровень) (Лекции)
+DTSTAMP:20240929T105849Z
+DTSTART:20240930T101500Z
+DTEND:20240930T114500Z
+LOCATION:К_2
+ORGANIZER;CN="Завгородняя Мария Евгеньевна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:tQanLBH5WIy1sk9_-5UZa
+SUMMARY:Математика (углубленный уровень) (Лекции)
+DTSTAMP:20240929T105849Z
+DTSTART:20241005T120000Z
+DTEND:20241005T133000Z
+LOCATION:К_19
+ORGANIZER;CN="Кумушбаев (с) Рустем Райманович":MAILTO:info@siriusuniversity
+	.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:QVOzonT6U4PFLH3kginSY
+SUMMARY:Информатика (углубленный уровень) (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241001T120000Z
+DTEND:20241001T133000Z
+LOCATION:Ростелеком
+ORGANIZER;CN="Наумова Ольга Викторовна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:YoVQBsREShHArvYR_VJO-
+SUMMARY:Информатика (углубленный уровень) (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241004T101500Z
+DTEND:20241004T114500Z
+LOCATION:Ростелеком
+ORGANIZER;CN="Наумова Ольга Викторовна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:I1WpxrzKf2MN54kpO4xC-
+SUMMARY:Литература  (Лекции)
+DTSTAMP:20240929T105849Z
+DTSTART:20240930T074500Z
+DTEND:20240930T091500Z
+LOCATION:Конференц-зал Достоевский
+ORGANIZER;CN="Бахтина Олеся Васильевна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:o43CSzRVKVY6HlrLowev9
+SUMMARY:Русский язык (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241001T101500Z
+DTEND:20241001T114500Z
+LOCATION:К_4
+ORGANIZER;CN="Бахтина Олеся Васильевна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:rDtoFmaRLcFhXc6X72T3r
+SUMMARY:История (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241004T074500Z
+DTEND:20241004T091500Z
+LOCATION:К_10
+ORGANIZER;CN="Лопатин Артем Александрович":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:83mr_sYV4y2E2UgOAXgoJ
+SUMMARY:Физическая культура (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241002T053000Z
+DTEND:20241002T070000Z
+LOCATION:Корпус "Спорт"
+ORGANIZER;CN="Пархоменко (с) Вадим Валерьевич":MAILTO:info@siriusuniversity
+	.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:esKfQ-wGBxq8trg_Syq83
+SUMMARY:Литература  (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241001T060000Z
+DTEND:20241001T073000Z
+LOCATION:К_4
+ORGANIZER;CN="Бахтина Олеся Васильевна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:_07pm8woGQmQggjrBollF
+SUMMARY:Математика (углубленный уровень) (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241005T074500Z
+DTEND:20241005T091500Z
+LOCATION:К_6
+ORGANIZER;CN="Завгородняя Мария Евгеньевна":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:x7As8YG2HqpJ5G263Yt2k
+SUMMARY:Обществознание (Лекции)
+DTSTAMP:20240929T105849Z
+DTSTART:20240930T120000Z
+DTEND:20240930T133000Z
+LOCATION:К_2
+ORGANIZER;CN="Лопатин Артем Александрович":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:qwfrWfe9u9dKCEIK_2JYG
+SUMMARY:Проектно-исследовательская деятельность (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241005T101500Z
+DTEND:20241005T114500Z
+LOCATION:К_1
+ORGANIZER;CN="Журавлев Василий Михайлович":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:K4qTJBldGB9GwIBZL5cfP
+SUMMARY:Физика (углубленный уровень) (Практические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241003T060000Z
+DTEND:20241003T073000Z
+LOCATION:Росатом (Робототехника)
+ORGANIZER;CN="Гусельникова Ульяна Александровна":MAILTO:info@siriusuniversi
+	ty.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:OlsdpHkNLUrfJGucYYfcR
+SUMMARY:География (Лекции)
+DTSTAMP:20240929T105849Z
+DTSTART:20240930T060000Z
+DTEND:20240930T073000Z
+LOCATION:К_19
+ORGANIZER;CN="Ваганов (с) Михаил Геннадьевич":MAILTO:info@siriusuniversity.
+	ru
+END:VEVENT
+BEGIN:VEVENT
+UID:fcsRVYwmhNBg_ve2slyf8
+SUMMARY:География (Лекции)
+DTSTAMP:20240929T105849Z
+DTSTART:20241004T060000Z
+DTEND:20241004T073000Z
+LOCATION:К_2
+ORGANIZER;CN="Ваганов (с) Михаил Геннадьевич":MAILTO:info@siriusuniversity.
+	ru
+END:VEVENT
+BEGIN:VEVENT
+UID:WZpbTJoyGe6c2JVbLeHCR
+SUMMARY:Физика (углубленный уровень) (Лекции)
+DTSTAMP:20240929T105849Z
+DTSTART:20241002T101500Z
+DTEND:20241002T114500Z
+LOCATION:К_2
+ORGANIZER;CN="Гусельникова Ульяна Александровна":MAILTO:info@siriusuniversi
+	ty.ru
+END:VEVENT
+BEGIN:VEVENT
+UID:amhwi7WmNjdOn3rI0n8xl
+SUMMARY:Установка и настройка программного и аппаратного обеспечения (Практ
+	ические занятия)
+DTSTAMP:20240929T105849Z
+DTSTART:20241002T074500Z
+DTEND:20241002T091500Z
+LOCATION:Гринатом
+ORGANIZER;CN="Лагаев Арсен Нурланович":MAILTO:info@siriusuniversity.ru
+END:VEVENT
+END:VCALENDAR

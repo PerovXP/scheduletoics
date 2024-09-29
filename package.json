@@ -1,0 +1,11 @@
+{
+  "name": "scheduletoics",
+  "version": "1.0.0",
+  "description": "a tool provides ability to make .ics file from json",
+  "main": "index.js",
+  "author": "PerovXP",
+  "license": "MIT",
+  "dependencies": {
+    "ics": "^3.8.1"
+  }
+}
