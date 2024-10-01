@@ -3,6 +3,7 @@ const { createEvents } = require("ics");
 
 const scheduleRawJson = require("./data/schedule.json");
 
+const appleSchedule = [];
 const schedule = [];
 for (const i in scheduleRawJson) {
     for (const e of scheduleRawJson[i]) {
@@ -26,11 +27,19 @@ for (const i in scheduleRawJson) {
                 .map((d) => { return parseInt(d) }),
         }
 
+        appleSchedule.push(obj);
+
+        obj.description = `Преподаватель: ${Object.values(e["teachers"])[0]["fio"]}`;
         schedule.push(obj);
     }
 }
 
+const { appleScheduleError, appleScheduleValue } = createEvents(appleSchedule);
+if (appleScheduleError) throw appleScheduleError;
+
+writeFileSync(`${__dirname}/schedule_apple.ics`, appleScheduleValue);
+
 const { error, value } = createEvents(schedule);
 if (error) throw error;
 
-writeFileSync(`${__dirname}/event.ics`, value);
+writeFileSync(`${__dirname}/schedule.ics`, value);
