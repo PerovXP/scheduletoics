@@ -26,6 +26,10 @@ runes2@^1.1.2:
   resolved "https://registry.yarnpkg.com/runes2/-/runes2-1.1.4.tgz#aa38d3d7946e147ac4718ed0fb19b22340ae5c66"
   integrity sha512-LNPnEDPOOU4ehF71m5JoQyzT2yxwD6ZreFJ7MxZUAoMKNMY1XrAo60H1CUoX5ncSm0rIuKlqn9JZNRrRkNou2g==
 
+sirinium@perovxp/sirinium:
+  version "1.0.0"
+  resolved "https://codeload.github.com/perovxp/sirinium/tar.gz/37278fdc46d921e50cffac7c0d3701f83d746ab7"
+
 tiny-case@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/tiny-case/-/tiny-case-1.0.3.tgz#d980d66bc72b5d5a9ca86fb7c9ffdb9c898ddd03"
