@@ -5,8 +5,7 @@
 * Клонировать репозиторий: `git clone https://github.com/PerovXP/scheduletoics`
 * Перейти в папку проекта: `cd scheduletoics`
 * Загрузить зависимости: `yarn`
-* Получить `events` от расписания (гайд будет, но позже)
-* Вставить полученный json в `data/schedule.json`
+* Указать группу в переменной среды `SCHEDULE_GROUP`
 * Запустить скрипт командой `yarn start`
 
 # Результат
